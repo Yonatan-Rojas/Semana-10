@@ -1,0 +1,13 @@
+describe un flujo simple de automatización usando n8n y Telegram.
+
+
+
+
+
+
+Evento que activa el flujo: Cuando un voluntario actualiza el estado de un reporte a “Pendiente de revisión”.
+
+Mensaje que se enviaría a Telegram: “Hay un reporte pendiente de revisión. Por favor, ingresa a la plataforma para verificar la información.”
+
+Información que no debería enviarse por seguridad: No deben compartirse nombres completos, números de identificación, 
+direcciones de domicilio, números de teléfono, correos electrónicos, contraseñas ni fotografías o documentos personales.

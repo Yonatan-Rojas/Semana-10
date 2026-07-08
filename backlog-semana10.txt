@@ -1,0 +1,18 @@
+1. Como habitante del barrio quiero reportar problemas de alumbrado 
+público para que las autoridades puedan atenderlos. (Prioridad: Alta)
+
+
+2. Como líder comunitario quiero recibir una notificación en 
+Telegram cuando se registre un nuevo reporte para organizar una respuesta oportuna. (Prioridad: Alta)
+
+
+3. Como voluntario quiero actualizar el estado de un reporte para 
+informar a la comunidad sobre el avance de la solución. (Prioridad: Media)
+
+
+4. Como ciudadano quiero consultar el historial de los reportes realizados 
+para conocer cuáles ya fueron solucionados. (Prioridad: Media)
+
+
+5. Como administrador quiero generar un resumen de los reportes más 
+frecuentes para identificar los principales problemas de la comunidad. (Prioridad: Baja)
